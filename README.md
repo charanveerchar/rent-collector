@@ -85,7 +85,7 @@ python main.py
 
 **Charan Sai**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/your-charanveercher
 
 ## 📄 License
 
